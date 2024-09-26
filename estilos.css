@@ -1,0 +1,10 @@
+.img{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+body{
+    margin: 50px;
+    background-color: black ;
+}
